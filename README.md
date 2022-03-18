@@ -2,9 +2,10 @@
 
 Write a code that:
 
-- Create two seperate rooms at 90 degree angle. Room is a cube.
+- Create seperate rooms at 90 degree angle. Room is a cube. For example ![Cube Image](https://github.com/SLMetaverse/hiring-3D-assignment/blob/master/cubes.png?raw=true)
 
-- Each side of rooms should have different color.
+
+- Each rooms should have different color.
 
 - Traverse from one room to another. Use WASD keys to move and mouse to look around.
 
