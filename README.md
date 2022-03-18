@@ -32,3 +32,5 @@ Write a code that:
 3. Push your branch and create a pull request on GitHub.
 
 4. `example.html` is one example for reference.
+
+5. Fee free to add your own elements for extra credit.
