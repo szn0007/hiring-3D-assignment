@@ -2,17 +2,15 @@
 
 Write a code that:
 
-- Create seperate rooms at 90 degree angle. Room is a cube. For example ![Cube Image](https://github.com/SLMetaverse/hiring-3D-assignment/blob/master/cubes.png?raw=true)
+- Create  transparent 3D rooms. Room is a cube. For example ![Cube Image](https://github.com/SLMetaverse/hiring-3D-assignment/blob/challenge/example.jpg?raw=true)
 
+- Every wall of a room must be transparent. You must see another room through the wall.
 
-- Each rooms should have different color.
-
-- Traverse from one room to another. Use WASD keys to move and mouse to look around.
-
-- Restrict to go through the wall of a room.
+- Move from one room to another.
 
 - Able to navigate 360 inside a room.
 
+- Use the concept of 3D transformations. ![Example](https://www.cs.cornell.edu/courses/cs4620/2010fa/lectures/03transforms3d.pdf)
 # Notes
 - [three.js](https://threejs.org) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL. 
 - There are lots of [examples](https://threejs.org/examples/#webgl_animation_keyframes) that can be referenced and combined to get this exercise done.
